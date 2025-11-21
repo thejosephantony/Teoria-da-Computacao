@@ -1,1 +1,1 @@
-# Teoria-da-Computa-o
+# Teoria-da-Computação
